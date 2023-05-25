@@ -13,5 +13,6 @@ As cadeias de Markov são amplamente usadas em processos de tomada de decisão, 
 
 ### Informações
 
-Tempos gasto: 40 minutos
-Tecnologias usadas: Javascript with [mathjs](https://mathjs.org)
+**Tempos gasto:** 40 minutos
+</br>
+**Tecnologias usadas:** Javascript com [mathjs](https://mathjs.org)
